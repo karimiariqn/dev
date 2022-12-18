@@ -1,10 +1,10 @@
 title: NadindraDev
 markdown: kramdown
-url: ""
+url: "https://karimiariq.github.io/dev/"
 baseurl: "/dev"
 
 # for atom feed
-author:
+author: 
   name: Karimi Ariq
   email: mail@karimiariqn.my.id
 
