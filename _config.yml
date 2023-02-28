@@ -1,6 +1,6 @@
 title: NadindraDev
 markdown: kramdown
-url: "https://karimiariq.github.io/dev/"
+url: "https://karimiariqn.my.id/dev/"
 baseurl: "/dev"
 
 # for atom feed
@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-admin
 
 collections_dir: all_collections
 collections:
